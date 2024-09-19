@@ -1,0 +1,8 @@
+# Ignore environment variable files
+.env.local
+
+# Ignore Firebase config file
+src/service/FirebaseConfig.jsx
+
+
+node_modules/
